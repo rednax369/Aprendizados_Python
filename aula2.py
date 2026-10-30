@@ -1,6 +1,6 @@
-#TRABALHANDO COM VARIAVÉIS
-#TIPOS DE VARIÁVEIS
-*int = inteiro  10 11 155 
-*float = decimal
-*str = string "texto"
-*boolean =
+print(56, 78, sep='-', end='#')
+print(9, 10, sep='-', end='\n')
+print(9, 10, sep='-', end='\n')
+# \r\n -> CRLF
+# \n -> LF
+# Print não existe no Python
